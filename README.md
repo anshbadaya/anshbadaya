@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshbadaya
-- 👀 I’m interested in artificial intelligence and web development.
+- 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning machine learning.
 - 💞️ Currently I’m developing BlogsCamp which is a blogging site.
 - 📫 You can reach me by sending a text on techlearnme@gmail.com
