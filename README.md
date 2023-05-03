@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshbadaya
+- 👋 Hi, I’m Ansh
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Frontend Devlopment.
 - 💞️ I’m developing BlogsCamp which is a blogging site.
