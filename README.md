@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ansh
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Frontend Devlopment.
+- 👀 I’m interested in System Designs and Software Development.
+- 🌱 I’m currently learning Frontend Devlopment and DevOps.
 - 💞️ I’m developing BlogsCamp which is a blogging site.
 - 📫 You can reach me by sending a text on me.anshbadaya@gmail.com
 
