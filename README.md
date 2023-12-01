@@ -9,9 +9,7 @@
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-![Django](https://img.shields.io/badge/-Python-black?style=flat-square&logo=django)
-
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
