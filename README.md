@@ -10,31 +10,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blogscamp.com/)](https://blogscamp.com/)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```python
-
-// "Yellow Indicates hands-on and currently in use workplace"
-
- "ansh" = {
-    "pronouns": "He" | "Him",
-    "code" : [Python, "Javascript", "Java"],
-    "askMeAbout" : ["Tech", "Finance", "GK"],
-    "technologies" : {
-        "backEnd": {
-            py : [Django, "Flask"],
-            js : ["Express"]
-        },
-        "frontEnd" : [React, "Bootstrap"],
-        "devOps" : [AWS, Docker🐳, Jenkins, "Nginx"],
-        "databases" : [ MongoDB ],
-        "misc" : [ Project Management, Ubuntu, System Design, "Data Structures", "Bash Scripting",
-                "Web Scraping", "ML", "Data Science", "Go"]
-    },
-    "currentFocus": "Learning Frontend, Solidifying DevOps and Developing Projects In Backend"
-    "funFact": "I missed the commas !!"
-};
-```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
