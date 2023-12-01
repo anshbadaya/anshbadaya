@@ -4,11 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lazy_godfather?label=Follow)](https://twitter.com/intent/follow?screen_name=lazy_godfather)
-[![Linkedin: anmol](https://img.shields.io/badge/-ansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badayaansh2/)](https://www.linkedin.com/in/badayaansh2/)
-![GitHub followers](https://img.shields.io/github/followers/anshbadaya?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blogscamp.com/)](https://blogscamp.com/)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -53,5 +48,8 @@ or <a href="mailto: badayaansh2@gmail.com"><b>email</b></a> me.
 <a href="https://www.linkedin.com/in/badayaansh2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/badayaansh2" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/lazy_godfather" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+![GitHub followers](https://img.shields.io/github/followers/anshbadaya?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blogscamp.com/)](https://blogscamp.com/)
 
 </div>
