@@ -25,7 +25,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com"><b>here</b></a><br>
-or <a href="mailto: me.anshbadayagmail.com"><b>email</b></a> me.
+or <a href="mailto: badayaansh2@gmail.com"><b>email</b></a> me.
 
 </div>
 
@@ -50,6 +50,6 @@ or <a href="mailto: me.anshbadayagmail.com"><b>email</b></a> me.
 <a href="https://www.instagram.com/badayaansh2" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/lazy_godfather" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 ![GitHub followers](https://img.shields.io/github/followers/anshbadaya?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blogscamp.com/)](https://blogscamp.com/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anshbadaya.tech/)](https://anshbadaya.tech/)
 
 </div>
